@@ -2,9 +2,9 @@ name: daily-digest
 on:
   workflow_dispatch:        # Actionsタブから手動実行できる
   schedule:
-    # cronはUTC。日本時間から9時間引く。毎朝 JST 7:00 = UTC 22:00（前日）
+    # cronはUTC。日本時間から9時間引く。毎日 JST 12:30 = UTC 03:30
     # 実行時刻を変えるのはこの1行だけ
-    - cron: '0 22 * * *'
+    - cron: '30 3 * * *'
 permissions:
   contents: write           # processed-items.json のコミットバックに必要
 
