@@ -4,8 +4,7 @@
     {"name": "Publickey", "url": "https://www.publickey1.jp/atom.xml"},
     {"name": "GIGAZINE", "url": "https://gigazine.net/news/rss_2.0/"},
     {"name": "KAWAI note", "url": "https://note.com/kawaidesign/rss"},
-    {"name": "けいたろう note", "url": "https://note.com/keitaro_aigc/rss"},
-    {"name": "こんまり 公式ブログ", "url": "https://rssblog.ameba.jp/konmari/rss20.xml"}
+    {"name": "けいたろう note", "url": "https://note.com/keitaro_aigc/rss"}
   ],
   "youtube": [],
   "note": []
