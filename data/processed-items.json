@@ -1,1 +1,29 @@
-[]
+{
+  "items": [
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+      "title": "スクエニ、ゲームの品質テストをGeminiで自動化　AIが画面を見ながらコントローラーを操作、検証作業を自走",
+      "processedAt": "2026-08-03T13:12:33.705Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000365/",
+      "title": "実在女性の中学時代の体操着姿からAIわいせつ画像作成・投稿か　男逮捕、高校生書類送検",
+      "processedAt": "2026-08-03T13:12:33.705Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000351/",
+      "title": "カメラとディスプレイ搭載のAIグラス、「Rokid スマートAIグラス」を試してみた",
+      "processedAt": "2026-08-03T13:12:33.705Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
+      "title": "「Qwen3.8-Max」登場、オープン化は「来週」　一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
+      "processedAt": "2026-08-03T13:12:33.705Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/03/news061.html",
+      "title": "富士通とNECは「AI需要」と「収益」をどう語った？　2026年下半期の見通しを考察",
+      "processedAt": "2026-08-03T13:12:33.705Z"
+    }
+  ]
+}
