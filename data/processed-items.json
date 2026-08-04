@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news040.html",
+      "title": "AI予算の7割を食う「ITインフラ」、中でも予算超過しやすいのは？　医療機関調査",
+      "processedAt": "2026-08-04T06:09:31.098Z"
+    },
+    {
+      "url": "https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html",
+      "title": "塩野義製薬、生成AIの正答率を50→90％に　膨大な機密データをどう最適化した？",
+      "processedAt": "2026-08-04T06:09:31.098Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260804-meat-allergy-by-ticks/",
+      "title": "マダニ由来の「肉アレルギー」が増加、発症の仕組みや治療法にはなお多くの謎が残る",
+      "processedAt": "2026-08-04T06:09:31.098Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260804-friends-students-want-versus-actually-make/",
+      "title": "若者が「理想の相手」と友達になれる可能性は低く自分とよく似た相手と友達になりやすいとの研究結果",
+      "processedAt": "2026-08-04T06:09:31.098Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260804-cloudflare-ai-kimi-glm/",
+      "title": "Cloudflareが大型AIモデルの高速推論サービスを展開するための効率化手法を公開",
+      "processedAt": "2026-08-04T06:09:31.098Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
       "title": "スクエニ、ゲームの品質テストをGeminiで自動化　AIが画面を見ながらコントローラーを操作、検証作業を自走",
       "processedAt": "2026-08-03T13:12:33.705Z"
