@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに　8月14日から",
+      "processedAt": "2026-08-09T04:43:59.605Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能　macOSとLinuxに",
+      "processedAt": "2026-08-09T04:43:59.605Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260809-regressive-jpeg/",
+      "title": "アニメーションっぽく画像が動く「レグレッシブJPEG」とは？",
+      "processedAt": "2026-08-09T04:43:59.605Z"
+    },
+    {
       "url": "https://gigazine.net/news/20260808-unpaywall/",
       "title": "有料購読が必要な学術論文を見る際に自動的に合法的なオープンアクセス論文を収録したデータベースをチェックして無料で読めるかどうかがわかる「Unpaywall」",
       "processedAt": "2026-08-08T04:33:33.736Z"
