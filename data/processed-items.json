@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news015.html",
+      "title": "AIエージェントでCADやCAMを連携、製造プロセス自動化へ",
+      "processedAt": "2026-08-18T04:05:37.869Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260818-google-buy-bankrupt-airline/",
+      "title": "Googleが倒産したスピリット航空のメール1億件・Teamsチャット5億件を約16億円で購入へ、AIモデルの学習などに利用",
+      "processedAt": "2026-08-18T04:05:37.869Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260818-uber-eats-zipline-drone/",
+      "title": "ついにUber Eatsがドローン配送開始、全米展開を目指し2029年には1日100万件の配送を達成する計画",
+      "processedAt": "2026-08-18T04:05:37.869Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260818-unprecedented-number-apple-users-received-spyware-alert/",
+      "title": "Appleからスパイウェア攻撃に関する「脅威の通知」を受け取ったAppleユーザーの数が「前例のない数に達した」という報告",
+      "processedAt": "2026-08-18T04:05:37.869Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260818-apple-agrees-app-tracking-transparency-changes-germany/",
+      "title": "Appleがアプリ内に表示されるパーソナライズ広告に関する通知のルールを変更",
+      "processedAt": "2026-08-18T04:05:37.869Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000441/",
       "title": "なぜPFNは「国産AI」をゼロから開発するのか　担当者に聞く“自家製ならではの利点”",
       "processedAt": "2026-08-17T04:10:09.019Z"
