@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000641/",
+      "title": "「AIで生産性向上」日本の従業員は57％、世界平均は81％　仕事の満足度でも大差──アクセンチュア調査",
+      "processedAt": "2026-08-20T04:05:49.933Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
+      "title": "Stripe、AIモデルゲートウェイのOpenRouter買収　400以上のAIモデルを束ねる中立基盤は維持",
+      "processedAt": "2026-08-20T04:05:49.933Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
+      "title": "OpenAI、ZDRを維持したまま悪用検知へ　ログ保持を求めるAnthropicに対抗",
+      "processedAt": "2026-08-20T04:05:49.933Z"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/20/news021.html",
+      "title": "PTC、「Onshape」でMCP連携　自然言語でカスタムCAD機能の作成が可能に",
+      "processedAt": "2026-08-20T04:05:49.933Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260820-cloudflare-remote-spectre/",
+      "title": "CloudflareがリモートSpectre攻撃に成功、Workersから機密情報を最大12bit/秒で読み出す",
+      "processedAt": "2026-08-20T04:05:49.933Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000615/",
       "title": "「うちの会社にAIなんて」――謙遜する中小企業に眠る伸びしろ　OpenAIがパートナー網拡充、新規3社が語る",
       "processedAt": "2026-08-19T04:08:07.497Z"
