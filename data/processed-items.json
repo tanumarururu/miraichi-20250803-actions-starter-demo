@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news020.html",
+      "title": "AI×設計開発ニュースまとめ（2026年5～6月）",
+      "processedAt": "2026-08-24T04:13:52.500Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
+      "title": "Sakana AI、防衛省の「情報分析」をAIで支援　自衛隊の指揮統制システム高度化に続き",
+      "processedAt": "2026-08-24T04:13:52.500Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000703/",
+      "title": "Codex、使用量をまたリセットへ　“消費早すぎ”問題に対応",
+      "processedAt": "2026-08-24T04:13:52.500Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260824-amazon-prices/",
+      "title": "AmazonがスマートスピーカーのEcho・Fire TV・Kindle端末などを最大60％値上げ",
+      "processedAt": "2026-08-24T04:13:52.500Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260824-claude-mythos-5-defence/",
+      "title": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ",
+      "processedAt": "2026-08-24T04:13:52.500Z"
+    },
+    {
       "url": "https://gigazine.net/news/20260823-roboflow-playground/",
       "title": "無料で多種多彩なビジョンAIモデルを試用・比較・評価できる「Roboflow Playground」",
       "processedAt": "2026-08-23T04:08:15.183Z"
