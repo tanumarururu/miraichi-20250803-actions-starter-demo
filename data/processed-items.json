@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://gigazine.net/news/20260906-female-jobs-ai/",
+      "title": "女性の割合が多い仕事の方がAIによる自動化の影響を受けやすい可能性がある",
+      "processedAt": "2026-09-06T08:01:39.254Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260906-compression-is-prediction/",
+      "title": "圧縮とLLMに共通する本質は「データの予測」",
+      "processedAt": "2026-09-06T08:01:39.254Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260906-tetris-responds-trump-build-the-wall/",
+      "title": "トランプ政権が公開したテトリスライクなゲームにテトリス公式が反応",
+      "processedAt": "2026-09-06T08:01:39.254Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n525f0bb19868",
+      "title": "【川合のnoteの歩き方】1,126本から、今日の3本を選ぶ〜知る・考える・行うで決める読む順番〜",
+      "processedAt": "2026-09-06T08:01:39.254Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nf4dd48a87b04",
+      "title": "【GPT-6 Astra】OpenAIが指示ファイルの監査を勧める理由〜賢いモデルほど、矛盾した一行でつまずく〜",
+      "processedAt": "2026-09-06T08:01:39.254Z"
+    },
+    {
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
       "title": "「最大45％コスト減」　Anthropicが「Claude Fable 5.1」発表　脆弱性検知にも対応",
       "processedAt": "2026-09-05T07:48:44.118Z"
