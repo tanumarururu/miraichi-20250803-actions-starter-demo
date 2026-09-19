@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+      "title": "東京ゲームショウと生成AI　ゲームの祭典で商談見込むベンダーたち",
+      "processedAt": "2026-09-19T08:12:05.113Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260919-text-ai-watermarks/",
+      "title": "テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる",
+      "processedAt": "2026-09-19T08:12:05.113Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260919-hack-openai-claude/",
+      "title": "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
+      "processedAt": "2026-09-19T08:12:05.113Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260919-clever-hans-horse-mystery/",
+      "title": "計算できるウマ「賢馬ハンス」はどうやって正しい答えを出していたのか？",
+      "processedAt": "2026-09-19T08:12:05.113Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
       "title": "Anthropic、AI開発の26％を「Claudeが主導」　「1％未満」から半年で急拡大",
       "processedAt": "2026-09-18T08:24:09.790Z"
