@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+      "processedAt": "2026-09-23T08:46:20.549Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
+      "processedAt": "2026-09-23T08:46:20.549Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260923-gpt-6-sol-luna/",
+      "title": "「GPT-6 Sol」と「GPT-6 Luna」が登場、API料金は前世代の半額でコスト効率が大幅に向上",
+      "processedAt": "2026-09-23T08:46:20.549Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260923-claude-opus-5-5/",
+      "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表、Opus 5よりコスト40％減・30％以上高速化しコーディング性能も向上",
+      "processedAt": "2026-09-23T08:46:20.549Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
       "title": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
       "processedAt": "2026-09-22T08:42:58.037Z"
