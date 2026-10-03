@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
+      "title": "Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表",
+      "processedAt": "2026-10-03T09:19:42.489Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+      "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応",
+      "processedAt": "2026-10-03T09:19:42.489Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」",
+      "processedAt": "2026-10-03T09:19:42.489Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261003-airport-machiasobi31/",
+      "title": "鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜がマチ★アソビ vol.31に向けて徳島阿波おどり空港をアニメジャック",
+      "processedAt": "2026-10-03T09:19:42.489Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261003-ministack/",
+      "title": "無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能",
+      "processedAt": "2026-10-03T09:19:42.489Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
       "title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
       "processedAt": "2026-10-02T09:57:29.902Z"
