@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://gigazine.net/news/20261011-wg-admin/",
+      "title": "既に実行中のWireGuardホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能",
+      "processedAt": "2026-10-11T10:12:15.985Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261011-computer-art/",
+      "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
+      "processedAt": "2026-10-11T10:12:15.985Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261011-hayamimi/",
+      "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
+      "processedAt": "2026-10-11T10:12:15.985Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261011-removemacai/",
+      "title": "無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法",
+      "processedAt": "2026-10-11T10:12:15.985Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
+      "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+      "processedAt": "2026-10-11T10:12:15.985Z"
+    },
+    {
       "url": "https://gigazine.net/news/20261010-cancers-infection/",
       "title": "世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される",
       "processedAt": "2026-10-10T10:02:16.572Z"
