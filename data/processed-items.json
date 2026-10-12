@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
+      "title": "3社に1社がトークン予算超過　コスト増を最大44％抑える方法とは【アクセンチュア調査】",
+      "processedAt": "2026-10-12T11:10:29.109Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
+      "title": "FDEが構築したAIエージェントの7割、企業が放棄へ　Gartner予測",
+      "processedAt": "2026-10-12T11:10:29.109Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿　統制はモデルの外に置くよう提言",
+      "processedAt": "2026-10-12T11:10:29.109Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+      "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+      "processedAt": "2026-10-12T11:10:29.109Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261012-carwatch/",
+      "title": "愛車がAIエージェントとなる「CarWatch」、必要なのはRaspberry Pi 5とローカルAI",
+      "processedAt": "2026-10-12T11:10:29.109Z"
+    },
+    {
       "url": "https://gigazine.net/news/20261011-wg-admin/",
       "title": "既に実行中のWireGuardホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能",
       "processedAt": "2026-10-11T10:12:15.985Z"
