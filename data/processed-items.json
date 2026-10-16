@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
+      "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
+      "processedAt": "2026-10-16T08:22:24.064Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/",
+      "title": "Meta、「米国製で最高性能」のオープンモデル「Muse Spark Open」発表　Apple Siliconに最適化、Mac Studio×2でローカル動作",
+      "processedAt": "2026-10-16T08:22:24.064Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+      "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる",
+      "processedAt": "2026-10-16T08:22:24.064Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002320/",
+      "title": "「今までが簡単すぎた」――声のAI利用に新指針、日俳連　事業者に求める対応は",
+      "processedAt": "2026-10-16T08:22:24.064Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
+      "title": "AIエージェントに「何を指示するか」より「何をさせないか」――NVIDIAが示す設計の原則",
+      "processedAt": "2026-10-16T08:22:24.064Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
       "title": "国内WebサイトへのAIエージェント攻撃を観測　「8時間弱」続いた攻撃の推移を公開　国内セキュリティベンダー",
       "processedAt": "2026-10-15T08:29:14.265Z"
