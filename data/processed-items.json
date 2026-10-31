@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+      "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+      "processedAt": "2026-10-31T09:51:39.194Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261031-m3e-canvas/",
+      "title": "Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」",
+      "processedAt": "2026-10-31T09:51:39.194Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261031-landing-space-shuttle/",
+      "title": "宇宙からスペースシャトルを着陸させる方法",
+      "processedAt": "2026-10-31T09:51:39.194Z"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+      "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
+      "processedAt": "2026-10-31T09:51:39.194Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+      "title": "AIエージェントは「実運用」が主流に　「明確な成果」を得る企業の共通点は？",
+      "processedAt": "2026-10-31T09:51:39.194Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
       "title": "“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
       "processedAt": "2026-10-30T10:17:55.721Z"
