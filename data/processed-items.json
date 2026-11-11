@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
+      "title": "「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス",
+      "processedAt": "2026-11-11T11:17:29.477Z"
+    },
+    {
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
+      "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
+      "processedAt": "2026-11-11T11:17:29.477Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
+      "title": "中国AI「Qwen4」ついに登場　プレビュー版を提供開始、AlibabaのAIサービスで",
+      "processedAt": "2026-11-11T11:17:29.477Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
+      "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も",
+      "processedAt": "2026-11-11T11:17:29.477Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
+      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
+      "processedAt": "2026-11-11T11:17:29.477Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
       "title": "「Fable 5.2」の用途は？　Claudeモデルの選び方、Anthropicが基本を解説",
       "processedAt": "2026-11-10T11:28:47.749Z"
