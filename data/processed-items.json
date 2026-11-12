@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
+      "title": "Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか",
+      "processedAt": "2026-11-12T11:35:41.776Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "processedAt": "2026-11-12T11:35:41.776Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
+      "title": "パナソニックが250人体制で挑む「フィジカルAI」　職人の暗黙知をAI化、外販も視野に",
+      "processedAt": "2026-11-12T11:35:41.776Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
+      "title": "AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる",
+      "processedAt": "2026-11-12T11:35:41.776Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
+      "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
+      "processedAt": "2026-11-12T11:35:41.776Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
       "title": "「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス",
       "processedAt": "2026-11-11T11:17:29.477Z"
