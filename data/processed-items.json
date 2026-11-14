@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://gigazine.net/news/20261114-faa-outage-caused-system-crash/",
+      "title": "アメリカ全土で航空機の運航が一時停止、原因は通信ネットワーク更新によるシステムダウンか",
+      "processedAt": "2026-11-14T10:44:35.272Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/",
+      "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている",
+      "processedAt": "2026-11-14T10:44:35.272Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261114-software-used-to-be-horrible/",
+      "title": "現代のソフトウェアは劣化しているかもしれないが昔のソフトウェアはもっとひどかったという指摘",
+      "processedAt": "2026-11-14T10:44:35.272Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261114-ai-generated-scientific-papers/",
+      "title": "AIを使って科学論文を偽造してみたらこうなった",
+      "processedAt": "2026-11-14T10:44:35.272Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n586137ba364d",
+      "title": "AIっぽいデザイン、どこから直す？ パフェの広告、本の表紙、バッグの商品画像で見比べました",
+      "processedAt": "2026-11-14T10:44:35.272Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
       "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
       "processedAt": "2026-11-13T11:20:20.655Z"
